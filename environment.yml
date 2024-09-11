@@ -47,7 +47,7 @@ dependencies:
 - Pillow=10.3.0
 
 # For ELENG 120 https://github.com/berkeley-dsep-infra/datahub/issues/3566
-- scipy=1.11.3
+- scipy=1.14.1
 - gcc=10.4.0
 
 # https://github.com/berkeley-dsep-infra/datahub/issues/4460
@@ -61,7 +61,7 @@ dependencies:
 - pip:
 # From https://github.com/berkeley-dsep-infra/datahub/issues/1639
   - opencv-python==4.9.0.80
-  - PyQt5==5.15.4
+  - PyQt5==5.15.11
 # From https://github.com/berkeley-dsep-infra/datahub/issues/1363#issuecomment-598916469
   - lcapy==0.96
 # make webpdf export work DH-326
