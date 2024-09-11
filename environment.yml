@@ -44,7 +44,7 @@ dependencies:
 - git=2.33.0
 
 # From https://github.com/berkeley-dsep-infra/datahub/issues/1505
-- Pillow=10.4.0
+- Pillow=9.5.0 # sknapp had to downgrade 2024/09/11 to unstick builds =10.4.0
 
 # For ELENG 120 https://github.com/berkeley-dsep-infra/datahub/issues/3566
 - scipy=1.14.1
