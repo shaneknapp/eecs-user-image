@@ -49,13 +49,16 @@ default-jdk
 qtbase5-dev
 qt5-qmake
 
-## This section adds tools for desktop environment usage
+## jupyter-remote-desktop-proxy recommendations
 dbus-x11
+xfce4
+xfce4-panel
+xfce4-session
+xfce4-settings
 xorg
 xubuntu-icon-theme
-xfce4
-xfce4-goodies
-xclip
-xsel
+tigervnc-standalone-server
+
+## Useful X11 packages
 firefox
 chromium-browser
