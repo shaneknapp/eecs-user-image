@@ -48,3 +48,14 @@ default-jdk
 # https://github.com/berkeley-dsep-infra/datahub/issues/1505
 qtbase5-dev
 qt5-qmake
+
+## This section adds tools for desktop environment usage
+dbus-x11
+xorg
+xubuntu-icon-theme
+xfce4
+xfce4-goodies
+xclip
+xsel
+firefox
+chromium-browser
