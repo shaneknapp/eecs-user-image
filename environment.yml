@@ -60,7 +60,7 @@ dependencies:
   - sk-video==1.1.10
   - ffmpeg==5.1.2
   # https://github.com/berkeley-dsep-infra/datahub/issues/4708
-  - datascience==0.17.6
+  #- datascience==0.17.6
 
   - pip:
     # From https://github.com/berkeley-dsep-infra/datahub/issues/1639
@@ -78,3 +78,5 @@ dependencies:
     - marimo==0.13.6 
     - click==8.1.8
     - git+https://github.com/b-data/jupyter-marimo-proxy.git@jupyterlab-docker-stack
+    # DH - 557 
+    - datascience==0.18.0
