@@ -46,6 +46,8 @@ dependencies:
   - matplotlib==3.10.5
   - sympy==1.14.0
   - pandas==2.3.1
+  - pyaudio==0.2.14
+  - python-sounddevice>0.5
   # For EECS127/227a
   # See https://github.com/berkeley-dsep-infra/datahub/issues/1631
   - cvxpy==1.7.1
